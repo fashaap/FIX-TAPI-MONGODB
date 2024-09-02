@@ -1,0 +1,8 @@
+{
+  "questioner": 1000,
+  "default": 1010,
+  "verification_admin": 1111,
+  "verification_qr_code": 2222,
+  "start_time": 3333,
+  "stop_time": 4444
+}
