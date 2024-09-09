@@ -14,7 +14,7 @@ const userSchema = new mongoose.Schema({
     required: true
   },
   nisn: {
-    type: Number,
+    type: String,
     required: true,
     maxlength: 10
   },

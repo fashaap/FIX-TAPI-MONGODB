@@ -31,8 +31,9 @@ const ticketSchema = new mongoose.Schema({
     required: true
   },
   nisn: {
-    type: Number,
-    required: true
+    type: String,
+    required: true,
+    maxlength: 10
   },
   classGrade: {
     type: String,
